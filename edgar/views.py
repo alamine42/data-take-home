@@ -2,7 +2,7 @@ import logging
 from datetime import datetime
 
 from flask import abort, Blueprint, render_template, request, redirect
-from flask.ext.paginate import Pagination
+from flask_paginate import Pagination
 
 from faker import Factory
 
