@@ -1,6 +1,6 @@
 # Data Take Home Exercises - Mehdi's Solutions
 
-Both scripts are in Python 2. See additional notes below for each.
+Both scripts are in Python 2.7. Apologies to all the 3.6'ers out there.
 
 One thing to point out is that the `edgar` code did not have a requirements.txt, which I added. As part of that move, I also replaced the Flask pagination module to make things work.
 
